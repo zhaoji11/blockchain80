@@ -1,5 +1,5 @@
 # blockchain80
-开源文化运动期末作业
+开源文化运动期末作业-李曌稷-2024131080
 ## 📖 项目简介
 
 本项目为《开源文化》课程的期末考查作业，旨在通过实践掌握GitHub项目管理、版本控制协作以及开源战略分析等核心技能。
@@ -20,10 +20,10 @@
 ### 安装与使用
 ```bash
 # 克隆本项目
-git clone https://github.com/你的用户名/开源文化期末作业_80.git
+git clone https://github.com/zhaoji11/blockchain80.git
 
 # 进入项目目录
-cd 开源文化期末作业_80
+cd blockchian80
 
 # 查看项目结构
 ls -la
