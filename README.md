@@ -27,3 +27,5 @@ cd blockchian80
 
 # 查看项目结构
 ls -la
+
+This is a new feature developed in the develop branch.
